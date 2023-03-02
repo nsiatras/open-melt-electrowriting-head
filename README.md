@@ -1,6 +1,6 @@
 # Open Source Melt Electrowriting (MEW) Head
 
-This is my Open Source Melt Electrowriting (MEW) Head. I designed this MEW Head in order to be able to be manufactured easily and above all economically by research centers around the world. 
+This is my Open Source Melt Electrowriting (MEW) Head. I designed this MEW Head in order to be able to be manufactured easily and above all economically by research centers around the world. To achieve this I used simple and cheap materials while I used the most economical and reliable CAD software I could find, the DesignSpark Mechanical made by RS Electronics.
 
 It can withstand a load of 12,000Volt and 120°C. It uses a 5cc clear syringe barrel made by Nordson and SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads.
 
@@ -19,3 +19,8 @@ You can find it on 3D Printer stores
 <b>2x</b> 50W 24V Ceramic Heater<br>
 You can find them on 3D Printer stores
 
+
+## Tools Needed
+1. A Benchtop Lathe
+2. A Benchtop CNC Machine
+3. A screw driver...
