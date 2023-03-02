@@ -1,11 +1,11 @@
 # Open Source Melt Electrowriting (MEW) Head
 
-This is my Open Source Melt Electrowriting (MEW) Head. I designed this MEW Head in order to be able to be manufactured easily and above all economically by research centers around the world. To achieve this I used simple and cheap materials while I used the most economical and reliable CAD software I could find, the DesignSpark Mechanical made by RS Electronics.
+This is my open source Melt Electrowriting (MEW) head. I designed this MEW Head to be easily and most importantly cheaply manufactured by research centers around the world. To achieve this I used simple and inexpensive materials while using the most affordable and reliable CAD software I could find, DesignSpark Mechanical by RS Electronics.
 
-It can withstand a load of 12,000Volt and 120°C. It uses a 5cc clear syringe barrel made by Nordson and SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads.
+It can withstand voltage of 12,000v and temperature up to 120°C. It uses a 5cc clear syringe barrel made by Nordson and SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads.
 
 ## Bill of materials
-For the main body of the MEW head you can use aluminum like 5083 and 6061. The outer jacket is made from Peek. Peek is quite expensive material and you might need to use a cheaper alternative like Teflon. 
+For the main body of the MEW head you can use aluminum like 5083 and 6061. The outer jacket is made using (Polyether ether ketone) Peek. Peek is quite expensive material and you might need to use a cheaper alternative like Teflon. 
 
 <b>6x</b> SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads<br>
 https://export.rsdelivers.com/product/silfox/sl-015-al-15/thermal-interface-pad-ceramic-aluminium-oxide-20w/mk-18-x-12mm-15mm/2182609
