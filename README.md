@@ -19,8 +19,10 @@ You can find it on 3D Printer stores
 <b>2x</b> 50W 24V Ceramic Heater<br>
 You can find them on 3D Printer stores
 
-
 ## Tools Needed
 1. A Benchtop Lathe
 2. A Benchtop CNC Machine
 3. A screw driver...
+
+# License
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
