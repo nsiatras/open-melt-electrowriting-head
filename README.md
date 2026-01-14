@@ -2,6 +2,8 @@
 
 This is my open source Melt Electrowriting (MEW) head. I designed this MEW Head to be easily and most importantly cheaply manufactured by research centers around the world. To achieve this I used simple and inexpensive materials while using the most affordable and reliable CAD software I could find, DesignSpark Mechanical by RS Electronics.
 
+![MEW Head Assembly](https://github.com/nsiatras/open-melt-electrowriting-head/blob/main/Images/Head-Assembly.png)
+
 It can withstand voltage of 12,000v and temperature up to 120°C. It uses a 5cc clear syringe barrel made by Nordson and SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads.
 
 ## Bill of materials
