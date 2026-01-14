@@ -1,30 +1,62 @@
-# Open Source Melt Electrowriting (MEW) Head
+# Open-Source Melt Electrowriting (MEW) Head
 
-This is my open source Melt Electrowriting (MEW) head. I designed this MEW Head to be easily and most importantly cheaply manufactured by research centers around the world. To achieve this I used simple and inexpensive materials while using the most affordable and reliable CAD software I could find, DesignSpark Mechanical by RS Electronics.
+This repository presents an **open-source Melt Electrowriting (MEW) head**, designed with a clear focus on **accessibility, affordability, and ease of manufacturing** for research laboratories and academic institutions worldwide.
+
+The primary goal of this design is to enable **low-cost fabrication** without compromising functionality or safety. To achieve this, the MEW head is built using **simple, widely available materials** and was designed entirely with **DesignSpark Mechanical** by RS Electronics—a free, reliable, and accessible CAD tool.
 
 ![MEW Head Assembly](https://github.com/nsiatras/open-melt-electrowriting-head/blob/main/Images/Head-Assembly.png)
 
-It can withstand voltage of 12,000v and temperature up to 120°C. It uses a 5cc clear syringe barrel made by Nordson and SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads.
+---
 
-## Bill of materials
-For the main body of the MEW head you can use aluminum like 5083 and 6061. The outer jacket is made using (Polyether ether ketone) Peek. Peek is quite expensive material and you might need to use a cheaper alternative like Teflon. 
+## Key Specifications
 
-<b>6x</b> SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads<br>
-https://export.rsdelivers.com/product/silfox/sl-015-al-15/thermal-interface-pad-ceramic-aluminium-oxide-20w/mk-18-x-12mm-15mm/2182609
+- **Maximum operating voltage:** up to **12,000 V**
+- **Maximum operating temperature:** up to **120 °C**
+- **Syringe barrel:** 5 cc clear syringe barrel (Nordson)
+- **Thermal insulation:** SL-015-AL-15 Ceramic Aluminium Oxide thermal pads
 
-<b>4x</b> M4x20 Din84 Nylon Screws<br>
-https://uk.rs-online.com/web/p/machine-screws/2326945
+---
 
-<b>1x</b> NTC-1000 Thermocouple<br> 
-You can find it on 3D Printer stores
+## Bill of Materials (BOM)
 
-<b>2x</b> 50W 24V Ceramic Heater<br>
-You can find them on 3D Printer stores
+### Structural Components
+- **Main body:** Aluminium (recommended alloys: **5083** or **6061**)
+- **Outer jacket:** **PEEK (Polyether ether ketone)**  
+  > ⚠️ PEEK provides excellent thermal and electrical insulation but is relatively expensive.  
+  > A lower-cost alternative such as **PTFE (Teflon)** may be used if required.
 
-## Tools Needed
-1. A Benchtop Lathe
-2. A Benchtop CNC Machine
-3. A screw driver...
+### Consumables & Hardware
+- **6×** SL-015-AL-15 Ceramic Aluminium Oxide Thermal Pads  
+  https://export.rsdelivers.com/product/silfox/sl-015-al-15/thermal-interface-pad-ceramic-aluminium-oxide-20w/mk-18-x-12mm-15mm/2182609
 
-# License
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+- **4×** M4 × 20 DIN 84 **Nylon Screws**  
+  https://uk.rs-online.com/web/p/machine-screws/2326945
+
+- **1×** NTC-1000 Thermistor  
+  *(commonly available from 3D printer component suppliers)*
+
+- **2×** 50 W – 24 V Ceramic Heaters  
+  *(commonly available from 3D printer component suppliers)*
+
+---
+
+## Required Tools
+
+To manufacture and assemble the MEW head, the following basic workshop tools are required:
+
+1. **Benchtop lathe**
+2. **Benchtop CNC machine**
+3. **Screwdriver** (and basic hand tools)
+
+---
+
+## License
+
+This project is released under the  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+- Share and adapt the design  
+- Use it for research and educational purposes  
+
+⚠️ **Commercial use is not permitted** without explicit permission.
