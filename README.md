@@ -4,9 +4,8 @@ This repository presents an **open-source Melt Electrowriting (MEW) head**, desi
 
 The primary goal of this design is to enable **low-cost fabrication** without compromising functionality or safety. To achieve this, the MEW head is built using **simple, widely available materials** and was designed entirely with **DesignSpark Mechanical** by RS Electronics—a free, reliable, and accessible CAD tool.
 
-![MEW Head Assembly](https://github.com/nsiatras/open-melt-electrowriting-head/blob/main/Images/Head-Assembly.png)
+![Melt Electrowriting (MEW) Head Assembly](https://github.com/nsiatras/open-melt-electrowriting-head/blob/main/Images/preview.png)
 
----
 
 ## Key Specifications
 
@@ -14,8 +13,6 @@ The primary goal of this design is to enable **low-cost fabrication** without co
 - **Maximum operating temperature:** up to **120 °C**
 - **Syringe barrel:** 5 cc clear syringe barrel (Nordson)
 - **Thermal insulation:** SL-015-AL-15 Ceramic Aluminium Oxide thermal pads
-
----
 
 ## Bill of Materials (BOM)
 
@@ -38,7 +35,6 @@ The primary goal of this design is to enable **low-cost fabrication** without co
 - **2×** 50 W – 24 V Ceramic Heaters  
   *(commonly available from 3D printer component suppliers)*
 
----
 
 ## Required Tools
 
@@ -47,8 +43,6 @@ To manufacture and assemble the MEW head, the following basic workshop tools are
 1. **Benchtop lathe**
 2. **Benchtop CNC machine**
 3. **Screwdriver** (and basic hand tools)
-
----
 
 ## License
 
